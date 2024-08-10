@@ -1,6 +1,3 @@
-//Riddhi Musale
-//Prn:23070123108
-//Exp 6 Pyramid using for and while loop
 #include<iostream>
 using namespace std;
 int main(){
