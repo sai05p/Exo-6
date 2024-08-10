@@ -1,6 +1,4 @@
-//Riddhi Musale
-//PRN 23070123108
-//Exp 6 Nested While Loop
+
 #include <iostream>
 using namespace std;
 
