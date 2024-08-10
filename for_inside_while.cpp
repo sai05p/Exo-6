@@ -1,6 +1,3 @@
-//Riddhi Musale
-//PRN 23070123108
-//Exp 6 For loop inside while loop
 #include <iostream>
 using namespace std;
 int main() {
