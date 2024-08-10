@@ -1,6 +1,3 @@
-//Riddhi Musale
-//PRN 23070123108
-//Exp 6 Nested For Loop
 #include <iostream>
 using namespace std;
 
